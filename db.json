@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is one post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is one post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body for post 4",
+      "publishedAt": "2020-11-08",
+      "id": "t9lJCqg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "email": "jhon@gmail.com"
+    }
+  ]
+}
